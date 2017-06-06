@@ -1,0 +1,3 @@
+:top
+echo %random%
+goto top
